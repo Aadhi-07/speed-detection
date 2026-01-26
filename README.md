@@ -10,7 +10,7 @@ Monitoring vehicle speed is critical for road safety and traffic flow optimizati
 2. **Track** individual vehicles across frames using Euclidean Distance.
 3. **Calculate** speed by measuring pixel displacement over time.
 
----
+--- b
 
 ## 🎯 Objectives
 * Automated detection of vehicles without manual intervention.
