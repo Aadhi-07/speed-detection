@@ -1,7 +1,7 @@
 # 🚗 Vehicle Speed Detection using Computer Vision
 
 A Python-based project that detects vehicles in a video stream and estimates their speed using **Object Tracking** and **Frame-by-Frame Motion Analysis**. This project serves as a prototype for Intelligent Traffic Management Systems (ITMS).
-..
+
 ---
 
 ## 📌 Project Overview
